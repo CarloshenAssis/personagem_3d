@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Jaqueta Corta-Vento Slate",
+    "part": "Tronco / Braços / Gola",
+    "hex": "#23272D",
+    "rgb": [
+      35,
+      39,
+      45
+    ],
+    "godotColor": "Color(0.137, 0.153, 0.176, 1.0)",
+    "roughness": 0.85,
+    "metallic": 0.04,
+    "notes": "Tecido sintético fosco e impermeável. Absorve reflexos fortes na penumbra, garantindo que o jogador se mescle bem aos ambientes escuros."
+  },
+  {
+    "name": "Calça Tática Muted Olive",
+    "part": "Pernas / Bolsos Laterais",
+    "hex": "#2B322C",
+    "rgb": [
+      43,
+      50,
+      44
+    ],
+    "godotColor": "Color(0.169, 0.196, 0.173, 1.0)",
+    "roughness": 0.8,
+    "metallic": 0,
+    "notes": "Tom verde-oliva acinzentado de estilo utilitário casual. Dá contraste sutil com a jaqueta sem chamar atenção excessiva."
+  },
+  {
+    "name": "Tênis Utilitário Black Stealth",
+    "part": "Pés / Solado de Borracha",
+    "hex": "#131518",
+    "rgb": [
+      19,
+      21,
+      24
+    ],
+    "godotColor": "Color(0.075, 0.082, 0.094, 1.0)",
+    "roughness": 0.9,
+    "metallic": 0,
+    "notes": "Solado escuro sem amortecedores chamativos. Na lore do jogo, minimiza ruídos visuais ao caminhar em assoalhos de madeira."
+  },
+  {
+    "name": "Tom de Pele Facetado Neutro",
+    "part": "Rosto / Pescoço / Mãos",
+    "hex": "#B88E72",
+    "rgb": [
+      184,
+      142,
+      114
+    ],
+    "godotColor": "Color(0.722, 0.557, 0.447, 1.0)",
+    "roughness": 0.65,
+    "metallic": 0,
+    "notes": "Tom de pele quente médio com planos poligonais marcados. Permite rápida leitura de rotação da cabeça de outros jogadores."
+  },
+  {
+    "name": "Cabelo Grafite Poligonal",
+    "part": "Cabelo / Sobrancelhas",
+    "hex": "#1B1A19",
+    "rgb": [
+      27,
+      26,
+      25
+    ],
+    "godotColor": "Color(0.106, 0.102, 0.098, 1.0)",
+    "roughness": 0.95,
+    "metallic": 0,
+    "notes": "Corte curto e contido, sem franjas volumosas que criem silhueta assimétrica ou denunciem ângulo de rotação excessivo."
+  },
+  {
+    "name": "Zíper e Acabamentos Metálicos",
+    "part": "Cursor Central / Ilhoses",
+    "hex": "#525960",
+    "rgb": [
+      82,
+      89,
+      96
+    ],
+    "godotColor": "Color(0.322, 0.349, 0.376, 1.0)",
+    "roughness": 0.35,
+    "metallic": 0.7,
+    "notes": "Metal escovado discreto no fecho ecler para adicionar quebra de material no peito sem gerar reflexos denunciantes."
+  }
+]

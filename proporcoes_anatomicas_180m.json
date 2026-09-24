@@ -1,0 +1,62 @@
+[
+  {
+    "label": "Topo da Cabeça (Cranium)",
+    "heightMeters": 1.8,
+    "percentage": 100,
+    "description": "Limite superior da cápsula de colisão (1.80 m)"
+  },
+  {
+    "label": "Linha dos Olhos / Câmera FPS",
+    "heightMeters": 1.68,
+    "percentage": 93.3,
+    "description": "Posição do nó Camera3D do jogador em primeira pessoa"
+  },
+  {
+    "label": "Base do Queixo / Pescoço",
+    "heightMeters": 1.57,
+    "percentage": 87.2,
+    "description": "1ª Unidade de Cabeça (Proporção 1:8 clássica)"
+  },
+  {
+    "label": "Linha dos Ombros (Clavícula)",
+    "heightMeters": 1.48,
+    "percentage": 82.2,
+    "description": "Eixo de rotação dos nós Shoulder e UpperArm"
+  },
+  {
+    "label": "Esterno / Peitoral",
+    "heightMeters": 1.34,
+    "percentage": 74.4,
+    "description": "Término da caixa torácica e dobra do zíper"
+  },
+  {
+    "label": "Cintura / Fivela de Cinto",
+    "heightMeters": 1.05,
+    "percentage": 58.3,
+    "description": "Junta de flexão da coluna (Spine/Hips)"
+  },
+  {
+    "label": "Virilha / Raiz das Pernas",
+    "heightMeters": 0.92,
+    "percentage": 51.1,
+    "description": "Ponto médio exato da divisão corporal (51% pernas)"
+  },
+  {
+    "label": "Articulação dos Joelhos",
+    "heightMeters": 0.5,
+    "percentage": 27.8,
+    "description": "Nós das juntas IK de perna no Godot"
+  },
+  {
+    "label": "Tornozelos / Solado",
+    "heightMeters": 0.08,
+    "percentage": 4.4,
+    "description": "Nós de contato de pés (Foot IK e Step Detection)"
+  },
+  {
+    "label": "Chão / Base (Ground Plane)",
+    "heightMeters": 0,
+    "percentage": 0,
+    "description": "Origem Vector3(0, 0, 0) no espaço local"
+  }
+]

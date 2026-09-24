@@ -1,0 +1,57 @@
+ARMED MYSTERY - ESPECIFICAÇÕES DE MATERIAIS LOW-POLY PBR (GODOT 4.x)
+========================================================================
+
+[Jaqueta Corta-Vento Slate]
+  Aplicação: Tronco / Braços / Gola
+  HEX: #23272D
+  RGB: 35, 39, 45
+  Godot Color: Color(0.137, 0.153, 0.176, 1.0)
+  Roughness: 0.85
+  Metallic: 0.04
+  Notas de Iluminação: Tecido sintético fosco e impermeável. Absorve reflexos fortes na penumbra, garantindo que o jogador se mescle bem aos ambientes escuros.
+
+[Calça Tática Muted Olive]
+  Aplicação: Pernas / Bolsos Laterais
+  HEX: #2B322C
+  RGB: 43, 50, 44
+  Godot Color: Color(0.169, 0.196, 0.173, 1.0)
+  Roughness: 0.8
+  Metallic: 0
+  Notas de Iluminação: Tom verde-oliva acinzentado de estilo utilitário casual. Dá contraste sutil com a jaqueta sem chamar atenção excessiva.
+
+[Tênis Utilitário Black Stealth]
+  Aplicação: Pés / Solado de Borracha
+  HEX: #131518
+  RGB: 19, 21, 24
+  Godot Color: Color(0.075, 0.082, 0.094, 1.0)
+  Roughness: 0.9
+  Metallic: 0
+  Notas de Iluminação: Solado escuro sem amortecedores chamativos. Na lore do jogo, minimiza ruídos visuais ao caminhar em assoalhos de madeira.
+
+[Tom de Pele Facetado Neutro]
+  Aplicação: Rosto / Pescoço / Mãos
+  HEX: #B88E72
+  RGB: 184, 142, 114
+  Godot Color: Color(0.722, 0.557, 0.447, 1.0)
+  Roughness: 0.65
+  Metallic: 0
+  Notas de Iluminação: Tom de pele quente médio com planos poligonais marcados. Permite rápida leitura de rotação da cabeça de outros jogadores.
+
+[Cabelo Grafite Poligonal]
+  Aplicação: Cabelo / Sobrancelhas
+  HEX: #1B1A19
+  RGB: 27, 26, 25
+  Godot Color: Color(0.106, 0.102, 0.098, 1.0)
+  Roughness: 0.95
+  Metallic: 0
+  Notas de Iluminação: Corte curto e contido, sem franjas volumosas que criem silhueta assimétrica ou denunciem ângulo de rotação excessivo.
+
+[Zíper e Acabamentos Metálicos]
+  Aplicação: Cursor Central / Ilhoses
+  HEX: #525960
+  RGB: 82, 89, 96
+  Godot Color: Color(0.322, 0.349, 0.376, 1.0)
+  Roughness: 0.35
+  Metallic: 0.7
+  Notas de Iluminação: Metal escovado discreto no fecho ecler para adicionar quebra de material no peito sem gerar reflexos denunciantes.
+
