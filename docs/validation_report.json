@@ -1,0 +1,165 @@
+{
+  "status": "PASS",
+  "files": [
+    {
+      "file": "models/mystery_character_ash.glb",
+      "triangles": 567,
+      "bounds_m": {
+        "min": [
+          -0.43,
+          0.0,
+          -0.155
+        ],
+        "max": [
+          0.43,
+          1.8,
+          0.225
+        ]
+      },
+      "materials": 8,
+      "nodes": 28,
+      "embedded_buffer": true,
+      "animations": 0
+    },
+    {
+      "file": "models/mystery_character_cedar.glb",
+      "triangles": 555,
+      "bounds_m": {
+        "min": [
+          -0.43,
+          0.0,
+          -0.155
+        ],
+        "max": [
+          0.43,
+          1.8,
+          0.225
+        ]
+      },
+      "materials": 8,
+      "nodes": 27,
+      "embedded_buffer": true,
+      "animations": 0
+    },
+    {
+      "file": "models/mystery_character_dawn.glb",
+      "triangles": 567,
+      "bounds_m": {
+        "min": [
+          -0.435,
+          0.0,
+          -0.155
+        ],
+        "max": [
+          0.435,
+          1.8,
+          0.225
+        ]
+      },
+      "materials": 8,
+      "nodes": 28,
+      "embedded_buffer": true,
+      "animations": 0
+    },
+    {
+      "file": "models/mystery_character_ember.glb",
+      "triangles": 567,
+      "bounds_m": {
+        "min": [
+          -0.43,
+          0.0,
+          -0.155
+        ],
+        "max": [
+          0.43,
+          1.8,
+          0.225
+        ]
+      },
+      "materials": 8,
+      "nodes": 28,
+      "embedded_buffer": true,
+      "animations": 0
+    },
+    {
+      "file": "models/mystery_character_moss.glb",
+      "triangles": 555,
+      "bounds_m": {
+        "min": [
+          -0.43,
+          0.0,
+          -0.155
+        ],
+        "max": [
+          0.43,
+          1.8,
+          0.225
+        ]
+      },
+      "materials": 8,
+      "nodes": 27,
+      "embedded_buffer": true,
+      "animations": 0
+    },
+    {
+      "file": "models/mystery_character_night.glb",
+      "triangles": 555,
+      "bounds_m": {
+        "min": [
+          -0.43,
+          0.0,
+          -0.155
+        ],
+        "max": [
+          0.43,
+          1.8,
+          0.225
+        ]
+      },
+      "materials": 8,
+      "nodes": 27,
+      "embedded_buffer": true,
+      "animations": 0
+    },
+    {
+      "file": "models/mystery_character_plum.glb",
+      "triangles": 567,
+      "bounds_m": {
+        "min": [
+          -0.43,
+          0.0,
+          -0.155
+        ],
+        "max": [
+          0.43,
+          1.8,
+          0.225
+        ]
+      },
+      "materials": 8,
+      "nodes": 28,
+      "embedded_buffer": true,
+      "animations": 0
+    },
+    {
+      "file": "models/mystery_character_sand.glb",
+      "triangles": 567,
+      "bounds_m": {
+        "min": [
+          -0.43,
+          0.0,
+          -0.155
+        ],
+        "max": [
+          0.43,
+          1.8,
+          0.225
+        ]
+      },
+      "materials": 8,
+      "nodes": 28,
+      "embedded_buffer": true,
+      "animations": 0
+    }
+  ]
+}
