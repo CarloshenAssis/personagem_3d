@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Procedural binary outputs (regenerate with tools/generate_characters.py)
+models/*.glb
+previews/*.png
+dist/*.zip
